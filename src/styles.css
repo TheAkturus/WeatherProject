@@ -5,7 +5,7 @@
 }
 .container-fluid {
   padding-top: 30px;
-  padding-bottom: 40px;
+  padding-bottom: 30px;
   padding-left: 35px;
   padding-right: none;
   background: linear-gradient(to right, rgb(51, 139, 147), rgb(182, 244, 146));
@@ -77,4 +77,8 @@ ul {
 body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 10px 10px;
+}
+
+.tagline {
+  text-align: center;
 }
